@@ -20,7 +20,7 @@ I’m a web developer with over 12 years experience producing digital products. 
 
 ## Uses
 
-![Apple Music](https://img.shields.io/badge/-Apple_Music-2b2b2b?&logo=Apple-Music&style=flat-square&logoColor=f94c57) ![Brave](https://img.shields.io/badge/-Brave-2b2b2b?&logo=Brave&style=flat-square) ![Codewars](https://img.shields.io/badge/-Codewars-2b2b2b?&logo=Codewars&style=flat-square&logoColor=EF5656) ![Firefox](https://img.shields.io/badge/-Firefox-2b2b2b?&logo=Firefox&style=flat-square)![Mac](https://img.shields.io/badge/-Mac-2b2b2b?&logo=apple&style=flat-square)
+![Apple Music](https://img.shields.io/badge/-Apple_Music-2b2b2b?&logo=Apple-Music&style=flat-square&logoColor=f94c57) ![Brave](https://img.shields.io/badge/-Brave-2b2b2b?&logo=Brave&style=flat-square) ![Codewars](https://img.shields.io/badge/-Codewars-2b2b2b?&logo=Codewars&style=flat-square&logoColor=EF5656) ![Firefox](https://img.shields.io/badge/-Firefox-2b2b2b?&logo=Firefox&style=flat-square) ![Mac](https://img.shields.io/badge/-Mac-2b2b2b?&logo=apple&style=flat-square)
 
 ## Coming Soon
 
