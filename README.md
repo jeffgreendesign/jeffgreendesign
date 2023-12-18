@@ -2,7 +2,7 @@
 
 💻 _Web Developer_ 
 
-![Location - New York, NY](https://img.shields.io/badge/📍_Location:-_New_York,_NY-2b2b2b?labelColor=2b2b2b&style=flat-square) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-2b2b2b?logo=LinkedIn&link=https://www.linkedin.com/in/jeffgreenweb/&style=flat-square)](https://www.linkedin.com/in/jeffgreenweb/) [![Portfolio](https://img.shields.io/badge/-🌎_Website-2b2b2b?link=https://hirejeffgreen.com/&style=flat-square)](https://hirejeffgreen.com/)
+![Location - New York, NY](https://img.shields.io/badge/📍_Location:-_New_York,_NY-2b2b2b?labelColor=2b2b2b&style=flat-square) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-2b2b2b?logo=LinkedIn&logoColor=0077B5&link=https://www.linkedin.com/in/jeffgreenweb/&style=flat-square)](https://www.linkedin.com/in/jeffgreenweb/) [![Portfolio](https://img.shields.io/badge/-🌎_Website-2b2b2b?link=https://hirejeffgreen.com/&style=flat-square)](https://hirejeffgreen.com/)
 
 I’m a web developer with over 12 years experience producing digital products. I have experience on both sides of the agency/client world. From working with teams on builds and launches, to serving as the organization technical contact for multiple SaaS providers, I have experience within the entire web development ecosystem. Overall, I’m focused on creating accessible and high-quality digital experiences that provide meaningful business value for clients.
 
