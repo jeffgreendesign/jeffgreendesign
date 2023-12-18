@@ -1,4 +1,4 @@
-# ❇️ Jeff Green ❇️ _Web Developer_ ❇️
+# ❇️ Jeff Green 💻 _Web Developer_ ❇️
 
 ![Location - New York, NY](https://img.shields.io/badge/📍_Location:-_New_York,_NY-2b2b2b?labelColor=2b2b2b&style=flat-square) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-2b2b2b?logo=LinkedIn&link=https://www.linkedin.com/in/jeffgreenweb/&style=flat-square)](https://www.linkedin.com/in/jeffgreenweb/) [![Portfolio](https://img.shields.io/badge/-🌎_Website-2b2b2b?link=https://hirejeffgreen.com/&style=flat-square)](https://hirejeffgreen.com/)
 
