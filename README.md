@@ -14,7 +14,7 @@ Overall, I’m focused on creating accessible and high-quality digital experienc
 
 ## Building with
 
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-2b2b2b?&logo=Bootstrap&style=flat-square) ![Eleventy](https://img.shields.io/badge/-Eleventy-2b2b2b?&logo=Eleventy&style=flat-square) ![Netlify](https://img.shields.io/badge/-Netlify-2b2b2b?&logo=Netlify&style=flat-square) ![Shopify](https://img.shields.io/badge/-Shopify-2b2b2b?&logo=Shopify&style=flat-square) ![WordPress](https://img.shields.io/badge/-WordPress-2b2b2b?&logo=WordPress&style=flat-square)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-2b2b2b?&logo=Bootstrap&style=flat-square) ![Eleventy](https://img.shields.io/badge/-Eleventy-2b2b2b?&logo=Eleventy&style=flat-square) ![Netlify](https://img.shields.io/badge/-Netlify-2b2b2b?&logo=Netlify&style=flat-square) ![Node.js](https://img.shields.io/badge/-Node.js-2b2b2b?&logo=nodedotjs&style=flat-square) ![Shopify](https://img.shields.io/badge/-Shopify-2b2b2b?&logo=Shopify&style=flat-square) ![WordPress](https://img.shields.io/badge/-WordPress-2b2b2b?&logo=WordPress&style=flat-square)
 
 ## Tools
 
@@ -26,4 +26,4 @@ Overall, I’m focused on creating accessible and high-quality digital experienc
 
 ## Coming Soon
 
-![Next.js](https://img.shields.io/badge/-Next.js-2b2b2b?&logo=Nextdotjs&style=flat-square) ![Node.js](https://img.shields.io/badge/-Node.js-2b2b2b?&logo=nodedotjs&style=flat-square) ![React](https://img.shields.io/badge/-React-2b2b2b?&logo=React&style=flat-square) ![tailwindcss](https://img.shields.io/badge/-Tailwind_CSS-2b2b2b?&logo=tailwindcss&style=flat-square) ![Typescript](https://img.shields.io/badge/-Typescript-2b2b2b?&logo=Typescript&style=flat-square)
+![Next.js](https://img.shields.io/badge/-Next.js-2b2b2b?&logo=Nextdotjs&style=flat-square) ![React](https://img.shields.io/badge/-React-2b2b2b?&logo=React&style=flat-square) ![tailwindcss](https://img.shields.io/badge/-Tailwind_CSS-2b2b2b?&logo=tailwindcss&style=flat-square) ![Typescript](https://img.shields.io/badge/-Typescript-2b2b2b?&logo=Typescript&style=flat-square)
